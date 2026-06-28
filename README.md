@@ -131,6 +131,3 @@ After completing this project, you will be able to:
 
 ---
 
-## 📜 License
-
-This project is created for educational and learning purposes.
